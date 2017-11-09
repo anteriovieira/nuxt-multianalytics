@@ -6,7 +6,7 @@
 [![Dependencies](https://david-dm.org/anteriovieira/nuxt-multianalytics/status.svg?style=flat-square)](https://david-dm.org/anteriovieira/nuxt-multianalytics)
 [![js-standard-style](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com)
 
-> Nuxt module
+> Nuxt module for [vue-multianalytics](https://github.com/Glovo/vue-multianalytics)
 
 [📖 **Release Notes**](./CHANGELOG.md)
 
