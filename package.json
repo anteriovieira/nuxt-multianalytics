@@ -1,0 +1,40 @@
+{
+  "name": "nuxt-multianalytics",
+  "version": "0.0.0",
+  "description": "Nuxt module",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Antério Vieira <anteriovieira@gmail.com>"
+    }
+  ],
+  "main": "lib/module.js",
+  "repository": "https://github.com/anteriovieira/nuxt-multianalytics",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "lint": "eslint lib test",
+    "test": "npm run lint && jest",
+    "release": "standard-version && git push --follow-tags && npm publish"
+  },
+  "eslintIgnore": [
+    "lib/templates/*.*"
+  ],
+  "files": [
+    "lib"
+  ],
+  "jest": {
+    "testEnvironment": "node",
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "lib",
+      "test"
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nuxt-module-builder": "latest"
+  }
+}
