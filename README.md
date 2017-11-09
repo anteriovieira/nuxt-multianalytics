@@ -21,7 +21,10 @@ The module features
 ```js
 {
   modules: [
-    ['nuxt-multianalytics', { /* module options */ }, /* mixin */],
+    ['nuxt-multianalytics', {
+      options: {},
+      mixin: function() {}
+    }],
  ]
 }
 ```
