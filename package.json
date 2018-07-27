@@ -34,7 +34,7 @@
     ]
   },
   "dependencies": {
-    "vue-multianalytics": "^1.9.5"
+    "vue-multianalytics": "^1.9.4"
   },
   "devDependencies": {
     "nuxt-module-builder": "latest"
