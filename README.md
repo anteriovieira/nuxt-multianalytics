@@ -20,7 +20,7 @@ The module features
     ['nuxt-multianalytics', {
       options: {},
       mixin: function() {},
-      customModules: []
+      customModules: {}
     }],
  ]
 }
@@ -36,7 +36,7 @@ or
  multianalytics: {
    options: {},
    mixin: function() {},
-   customModules: []
+   customModules: {}
  }
 }
 ```
