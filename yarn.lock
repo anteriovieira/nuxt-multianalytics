@@ -7872,9 +7872,9 @@ vue-meta@^1.4.2:
     lodash.isplainobject "^4.0.6"
     object-assign "^4.1.1"
 
-vue-multianalytics@^1.9.6:
-  version "1.9.6"
-  resolved "https://registry.yarnpkg.com/vue-multianalytics/-/vue-multianalytics-1.9.6.tgz#07c778b681e41f88d157004589b09ee9433037d2"
+vue-multianalytics@^1.9.7:
+  version "1.9.7"
+  resolved "https://registry.yarnpkg.com/vue-multianalytics/-/vue-multianalytics-1.9.7.tgz#697972d06bd0b8b6033c36f28052756df2e97385"
 
 vue-router@^3.0.1:
   version "3.0.1"
